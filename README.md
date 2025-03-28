@@ -66,5 +66,8 @@ Se tiver sugestões ou melhorias, sinta-se à vontade para abrir um *issue* ou e
 ## 📜 Licença
 Este repositório é mantido para fins educacionais e de aprendizado. Fique à vontade para utilizar os códigos como referência!
 
----
+# Time
+
+ | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/202474042?s=400&u=a642f24f6cd43cb635e42bd9a9c57a9099ffb54a&v=4" width=115><br><sub> Thiago Fabri </sub>](https://github.com/TlFabri) |   |
+| :---: | :---: |
 
